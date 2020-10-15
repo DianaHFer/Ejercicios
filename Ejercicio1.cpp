@@ -1,10 +1,10 @@
-// Ejercicio1.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+// Ejercicio1.cpp 
 //@@ Instituto Tecnologico de Tijuana
 //@@ Depto de Sistemas y Computación
 //@@ Ing.En Sistemas Computacionales
 
 //@@ Autor : Hernández Fernández Diana @DianaHFer
-//@@ Repositorio: https://github.com/DianaHFer/Ejercicios.git_____
+//@@ Repositorio: https://github.com/DianaHFer/Ejercicios.git
 //@@ Fecha de revisión : Viernes 16 de Octubre del 2020.
 
 
